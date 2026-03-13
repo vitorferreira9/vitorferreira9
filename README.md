@@ -39,10 +39,10 @@
 <table>
   <tr>
     <td>
-      <img width="450px" src="https://github-readme-stats.vercel.app/api?username=vytuuu&show_icons=true&theme=dark" alt="Estatísticas do GitHub de Vitor">
+      <img width="450px" src="https://github-readme-stats.vercel.app/api?username=vitorferreira9&show_icons=true&theme=dark" alt="Estatísticas do GitHub">
     </td>
     <td>
-      <img width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vytuuu&layout=compact&theme=dark" alt="Linguagens mais usadas">
+      <img width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorferreira9&layout=compact&theme=dark" alt="Linguagens mais usadas">
     </td>
   </tr>
 </table>
@@ -52,7 +52,7 @@
 ## 💬 Vamos Conversar!
 
 Gosto de trocar ideias sobre tecnologia, resolver problemas de forma criativa e colaborar em projetos.  
-Entre em contato comigo pelo GitHub ou Discord: **vytu**.
+Entre em contato comigo pelo GitHub ou Discord: **vytuvlr**.
 
 ---
 
