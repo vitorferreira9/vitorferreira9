@@ -39,10 +39,7 @@
 <table>
   <tr>
     <td>
-      <img width="450px" src="https://github-readme-stats.vercel.app/api?username=vitorferreira9&show_icons=true&theme=dark" alt="Estatísticas do GitHub">
-    </td>
-    <td>
-      <img width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorferreira9&layout=compact&theme=dark" alt="Linguagens mais usadas">
+      <img width="450px" src="[https://github-readme-stats.vercel.app/api?username=vitorferreira9&show_icons=true&theme=dark](https://streak-stats.demolab.com?user=vitorferreira9&theme=dark&locale=pt_BR" alt="Estatísticas do GitHub">
     </td>
   </tr>
 </table>
