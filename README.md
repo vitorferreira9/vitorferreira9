@@ -39,7 +39,7 @@
 <table>
   <tr>
     <td>
-      <img width="450px" src="[https://github-readme-stats.vercel.app/api?username=vitorferreira9&show_icons=true&theme=dark](https://streak-stats.demolab.com?user=vitorferreira9&theme=dark&locale=pt_BR" alt="Estatísticas do GitHub">
+      <img width="450px" src="https://streak-stats.demolab.com?user=vitorferreira9&theme=dark&locale=pt_BR" alt="Estatísticas do GitHub">
     </td>
   </tr>
 </table>
