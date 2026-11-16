@@ -1,56 +1,50 @@
-# 👋 Olá, eu sou Vitor Ferreira!
+# Olá, eu sou Vitor Ferreira 👋
 
-## Sobre Mim
+Desenvolvedor **full stack**, com foco em back-end com Node.js e desenvolvimento de interfaces com React e Next.js. Gosto de criar aplicações úteis, APIs bem estruturadas e experiências simples de usar.
 
-🎓 **Formação:** Desenvolvedor Fullstack  
-💼 **Atuação:** Backend com Node.js, Frontend com React e Next.js  
-🌱 **Interesses:** APIs REST/GraphQL, Bancos de Dados, DevOps, UI/UX e mais!
+## Sobre mim
 
-📘 **Aprendendo e Me Aperfeiçoando:** Arquitetura de Software, Testes Automatizados, e Práticas DevOps modernas.
+- 🎓 Formação em desenvolvimento full stack
+- 💻 Trabalho com back-end, front-end e integração entre serviços
+- 🌱 Estudando arquitetura de software, testes automatizados e práticas modernas de DevOps
+- 💡 Tenho interesse em APIs REST e GraphQL, bancos de dados e UI/UX
 
----
+## Tecnologias e ferramentas
 
-## 🔧 Tecnologias & Ferramentas
+### Back-end
 
-### 🖥️ Backend
-![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-![Express.js](https://img.shields.io/badge/-Express.js-333333?style=flat&logo=express)
-![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### 🌐 Frontend
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-![Next.js](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=next.js)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-333333?style=flat&logo=tailwind-css)
+### Front-end
 
-### 🛠️ Outros
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-![Vercel](https://img.shields.io/badge/-Vercel-333333?style=flat&logo=vercel)
-![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
-![Discord.js](https://img.shields.io/badge/-Discord.js-333333?style=flat&logo=discord)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
----
+### Ferramentas
 
-## 📈 Estatísticas do GitHub
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Discord.js](https://img.shields.io/badge/Discord.js-5865F2?style=for-the-badge&logo=discord&logoColor=white)
 
-<table>
-  <tr>
-    <td>
-      <img width="450px" src="https://streak-stats.demolab.com?user=vitorferreira9&theme=dark&locale=pt_BR" alt="Estatísticas do GitHub">
-    </td>
-  </tr>
-</table>
+## GitHub
 
----
+<p align="center">
+  <img height="165" src="https://streak-stats.demolab.com?user=vitorferreira9&theme=tokyonight&locale=pt_BR" alt="Sequência de contribuições de Vitor Ferreira" />
+</p>
 
-## 💬 Vamos Conversar!
+## Vamos conversar?
 
-Gosto de trocar ideias sobre tecnologia, resolver problemas de forma criativa e colaborar em projetos.  
-Entre em contato comigo pelo GitHub ou Discord: **vytuvlr**.
+Estou sempre aberto a trocar ideias sobre tecnologia, colaborar em projetos e conversar sobre soluções criativas.
 
----
+- 💬 Discord: **vytuvlr**
+- 🐙 [Meu perfil no GitHub](https://github.com/vitorferreira9)
 
-⭐️ Se curtir algum dos meus projetos, deixe uma estrela — isso ajuda muito!
+Se algum projeto meu for útil para você, considere deixar uma ⭐️!
